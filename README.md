@@ -1,2 +1,1 @@
-# react-universal-blog
-Personal blog
+Personal blog.
